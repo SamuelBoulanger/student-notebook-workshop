@@ -4,7 +4,7 @@ Build a source grounded, persona driven AI coach that helps students learn Newto
 
 ## What you'll need
 - Microsoft 365 Copilot (with a OneDrive or SharePoint license)
-- The textbook excerpt covering Newton's three laws, provided as a PDF (**ID267.pdf**)
+- **Física I** (Instituto Tecnológico y de Estudios Superiores de Monterrey), the textbook excerpt covering Newton's Laws of Motion, provided as a PDF (**ID267.pdf**)
 - Two images of study notes on Newton's Laws (page 1 and page 2), hosted on GitHub for students to download
 
 ---
@@ -12,9 +12,9 @@ Build a source grounded, persona driven AI coach that helps students learn Newto
 ### Step 1 — Download the lab assets
 
 1. Download all three files (direct links, main branch):
-   - **ID267.pdf** — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/ID267.pdf
-   - **notes-page-1.png** (notes, page 1) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/notes-page-1.png
-   - **notes-page-2.png** (notes, page 2) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/notes-page-2.png
+   - **ID267.pdf** — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/assets/ID267.pdf
+   - **notes-page-1.png** (notes, page 1) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/assets/notes-page-1.png
+   - **notes-page-2.png** (notes, page 2) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/assets/notes-page-2.png
 
 2. The PDF link downloads automatically. The two image links will open in the browser instead, right-click the link (or the opened image) and choose **Save Link As...** / **Save Image As...** to save each one.
 
