@@ -15,20 +15,19 @@ Apply Newton's custom instructions **after** the image extraction step (Step 5).
 ---
  
 ### Step 1 — Download the lab assets
-![Repo file list](images/step-01-download-assets.png)
  
 1. Download all three files (direct links, main branch):
    - **ID267.pdf** — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/ID267.pdf
    - **notes-page-1.png** (notes, page 1) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/notes-page-1.png
    - **notes-page-2.png** (notes, page 2) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/notes-page-2.png
 2. The PDF link downloads automatically. The two image links will open in the browser instead, right-click the link (or the opened image) and choose **Save Link As...** / **Save Image As...** to save each one.
-![Right-click Save Image As](images/SaveImageAs.png)
+![Right-click Save Image As](images/SaveImage.png)
  
 3. Keep them somewhere easy to find, you'll upload each one into the notebook in the next steps.
 ---
  
 ### Step 2 — Create and name the notebook
-![New notebook button](images/step-02-new-notebook.png)
+![New notebook button](images/new-notebook.png)
  
 1. Open **Microsoft 365 Copilot → Notebooks → New notebook**.
 2. Name it **Newton's Laws – Study Coach**.
