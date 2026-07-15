@@ -13,8 +13,8 @@ Build a source grounded, persona driven AI coach that helps students learn Newto
 
 1. Download all three files (direct links, main branch):
    - **ID267.pdf** — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/assets/ID267.pdf
-   - **notes-page-1.png** (notes, page 1) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/assets/notes-page1.png
-   - **notes-page-2.png** (notes, page 2) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/assets/notes-page2.png
+   - **Notebook-page1.png** (notes, page 1) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/assets/Notebook-page1.png
+   - **Notebook-page2.png** (notes, page 2) — https://github.com/SamuelBoulanger/student-notebook-workshop/raw/main/assets/Notebook-page2.png
 
 2. The PDF link downloads automatically. The two image links will open in the browser instead, right-click the link (or the opened image) and choose **Save Link As...** / **Save Image As...** to save each one.
 
@@ -57,7 +57,7 @@ Build a source grounded, persona driven AI coach that helps students learn Newto
 ### Step 5 — Turn the two photos into notes
 
 1. Open **Copilot in the side pane**.
-2. Attach or paste **both notes images** you downloaded in Step 1 (**notes-page-1.png** and **notes-page-2.png**).
+2. Attach or paste **both notes images** you downloaded in Step 1 (**Notebook-page1.png** and **Notebook-page2.png**).
 3. Use this prompt:
 
 ```
