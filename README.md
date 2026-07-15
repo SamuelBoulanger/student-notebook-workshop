@@ -67,7 +67,7 @@ organized study notes on Newton's Laws.
 
 4. **Result:** two messy photos become clean, organized study notes in the chat response.
 
-<img src="images/extract-notes.png" alt="Notes images attached in Copilot" width="600">
+<img src="images/extract-notes.png" alt="Notes images attached in Copilot" width="300">
 
 ---
 
